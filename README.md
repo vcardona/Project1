@@ -12,3 +12,5 @@ En este ejemplo se muestra como usar:
 * Outlets
 * Auto Layout
 * UIImage
+
+![](Project1.gif)
